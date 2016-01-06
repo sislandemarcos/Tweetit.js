@@ -5,6 +5,10 @@ A tiny jQuery plugin to tweet highlighted texts
 
 http://marcossilva.info/tweetit.js/
 
-## Coming Soon
+## How to use it
 
-I'm preparing this first actual commit with the source. In the meantime, take a look at the demo page. Keep looking here for an update.
+# Copy the libraries to your project.
+# Include the library in the header of your html file:
+<pre>&lt;p class=&#39;tweet-it&#39;&gt;
+  Some awesome text.
+&lt;/p&gt;</pre>
