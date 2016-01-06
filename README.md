@@ -39,3 +39,4 @@ $('.tweet-it').tweetit( {
 ### Remarks
 You may know that Twitter posts are restricted to 140 characters, including the url, via and hashtag paramters. Tweetit.js will include your parameters and restrict the actual text to comply with that restriction.
 
+[MIT License](http://opensource.org/licenses/mit-license.php)
