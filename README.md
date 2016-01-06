@@ -10,7 +10,15 @@ http://marcossilva.info/tweetit.js/
 * Copy the libraries to your project.
 * Include the library in the header of your html file:
 ```html
-<script src="js/jquery.tweetit.js"></script>
+<head>
+  ...
+  <link rel="stylesheet" href="css/tweetit.css">
+
+...
+
+  <script src="js/jquery.tweetit.js"></script>
+  ...
+</body>
 ```
 * Decorate your DOM with some class that you can select for your plugin:
 ```html
