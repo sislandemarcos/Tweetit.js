@@ -103,7 +103,7 @@
 				$("#tweetit-end").remove();
 				var shift = "+=10";
 			
-				mainUrl = mainUrl.replace('{0}', sel.toString().substring(0, chars-2));
+				mainUrl = mainUrl.replace('{0}', sel.toString().substring(0, chars - 4));
 
 				$("body").append($btn.attr('href', mainUrl));
 				if (Math.abs(t-y) > Math.abs(b-y))
