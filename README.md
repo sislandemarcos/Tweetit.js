@@ -3,7 +3,7 @@ A tiny jQuery plugin to tweet highlighted texts
 
 ### Demo
 
-http://marcossilva.info/tweetit.js/
+http://sislandemarcos.github.io/Tweetit.js/
 
 ### How to use it
 
